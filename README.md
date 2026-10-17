@@ -12,7 +12,7 @@ I am a Computer Science student at Jimma University passionate about building we
 * CSS3
 * JavaScript
 * React
-* #Tellwind
+* Tellwind
 
 **Backend**
 
