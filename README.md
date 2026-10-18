@@ -1,8 +1,8 @@
-# Hi, I'm Demelash Nigusie 👋
+#I'm Demelash Nigusie 👋
 
 ### Computer Science Student | Full-Stack Developer
 
-I am a Computer Science student at Jimma University passionate about building web applications and solving real-world problems. I work with frontend technologies such as HTML, CSS, JavaScript, and React, alongside backend technologies including Node.js and PHP. I am continuously improving my skills through hands-on projects and learning new technologies.
+I am 4th year a Computer Science student at Jimma University passionate about building web applications and solving real-world problems. I work with frontend technologies such as HTML, CSS, JavaScript, and React, alongside backend technologies including Node.js and PHP. I am continuously improving my skills through hands-on projects and learning new technologies.
 
 ## 💻 Technical Skills
 
